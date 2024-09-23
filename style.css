@@ -1,0 +1,38 @@
+body {
+    background: rgb(131,58,180);
+    background: linear-gradient(90deg, rgba(131,58,180,1) 0%, rgba(253,29,29,1) 50%, rgba(252,176,69,1) 100%);
+}
+
+h1 {
+    color: #F0ED05;
+    text-align: center;
+    font-size: 32px;
+}
+
+.c1{
+    color: #77F005;
+}
+
+.c2{
+    color: #F0DA05;
+}
+
+.c3{
+    color: #37F0B6;
+}
+
+p{
+    color: azure;
+}
+
+.c4{
+    color: #05DCF0;
+}
+
+.c5{
+    color: #0CF01C;
+}
+
+.c6{
+    color: #2AA1F0;
+}
